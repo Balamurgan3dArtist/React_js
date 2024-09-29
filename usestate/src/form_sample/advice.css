@@ -1,0 +1,19 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+   justify-content: center;
+    align-items: center;
+}
+div{
+    color: black;
+    text-align: center;
+}
+div button{
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+}
