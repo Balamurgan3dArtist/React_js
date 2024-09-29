@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Tomato",
+    "location": "Manavadi, Karur, Tamil Nadu",
+    "image": "src/assets/images/Tomato.jpeg",
+    "rating": 4,
+    "price": 30
+  },
+  {
+    "id": 2,
+    "name": "Potato",
+    "location": "Salem, Tamil Nadu",
+    "image": "src/assets/images/Potato.jpeg",
+    "rating": 5,
+    "price": 22
+  },
+  {
+    "id": 3,
+    "name": "Carrot",
+    "location": "Ooty, Tamil Nadu",
+    "image": "src/assets/images/Carrot.jpeg",
+    "rating": 4,
+    "price": 28
+  },
+  {
+    "id": 4,
+    "name": "Onion",
+    "location": "Coimbatore, Tamil Nadu",
+    "image": "src/assets/images/Onion.jpeg",
+    "rating": 5,
+    "price": 18
+  },
+  {
+    "id": 5,
+    "name": "Cucumber",
+    "location": "Erode, Tamil Nadu",
+    "image": "src/assets/images/Cucumber.jpeg",
+    "rating": 4,
+    "price": 20
+  },
+  {
+    "id": 6,
+    "name": "BellPepper",
+    "location": "Ooty, Tamil Nadu",
+    "image": "src/assets/images/BellPepper.jpeg",
+    "rating": 5,
+    "price": 45
+  },
+  {
+    "id": 7,
+    "name": "Broccoli",
+    "location": "Dindigul, Tamil Nadu",
+    "image": "src/assets/images/Broccoli.jpeg",
+    "rating": 4,
+    "price": 40
+  },
+  {
+    "id": 8,
+    "name": "Spinach",
+    "location": "Madurai, Tamil Nadu",
+    "image": "src/assets/images/Spinach.jpeg",
+    "rating": 3,
+    "price": 25
+  },
+  {
+    "id": 9,
+    "name": "Cauliflower",
+    "location": "Coimbatore, Tamil Nadu",
+    "image": "src/assets/images/Cauliflower.jpeg",
+    "rating": 5,
+    "price": 34
+  },
+  {
+    "id": 10,
+    "name": "GreenBeans",
+    "location": "Tiruppur, Tamil Nadu",
+    "image": "src/assets/images/GreenBeans.jpeg",
+    "rating": 4,
+    "price": 28
+  },
+  {
+    "id": 11,
+    "name": "Pumpkin",
+    "location": "Chennai, Tamil Nadu",
+    "image": "src/assets/images/Pumpkin.jpeg",
+    "rating": 5,
+    "price": 55
+  },
+  {
+    "id": 12,
+    "name": "Zucchini",
+    "location": "Trichy, Tamil Nadu",
+    "image": "src/assets/images/Zucchini.jpeg",
+    "rating": 4,
+    "price": 33
+  },
+  {
+    "id": 13,
+    "name": "Radish",
+    "location": "Vellore, Tamil Nadu",
+    "image": "src/assets/images/Radish.jpeg",
+    "rating": 3,
+    "price": 22
+  },
+  {
+    "id": 14,
+    "name": "Corn",
+    "location": "Kodaikanal, Tamil Nadu",
+    "image": "src/assets/images/Corn.jpeg",
+    "rating": 5,
+    "price": 45
+  },
+  {
+    "id": 15,
+    "name": "Beetroot",
+    "location": "Nilgiris, Tamil Nadu",
+    "image": "src/assets/images/Beetroot.jpeg",
+    "rating": 5,
+    "price": 28
+  }
+]
