@@ -1,0 +1,72 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #347493;
+}
+.container{
+  width: 800px;
+  height: 500px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 8px;
+  display: flex;
+}
+.box{
+  width: 350px;
+  background-image: url(src/assets/bheema.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.data{
+ 
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+}
+.data h1{
+  font-weight: 600px;
+  color: #347493;
+  margin-bottom: 20px;
+}
+.data .input-container{
+
+  margin-bottom: 30px;
+  font-size: 20px;
+}
+label{
+  display: block;
+}
+input{
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  font-size: 20px;
+}
+button{
+  padding:15px 20px;
+  font-size: 20px;
+  color: black;
+  background-color: #83c9ec;
+  border: none;
+  border-radius: 10px;
+cursor: pointer;
+}
+.result{
+  margin: 20px;
+  font-size: 20px;
+  text-align: center;
+  border: 1px solid #347493;
+  padding: 20px;
+}
