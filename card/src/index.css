@@ -1,0 +1,122 @@
+/* .header{
+color: green;
+}
+.sl{
+  color: blue;
+}
+.code{
+  color: yellow;
+}
+.error{
+  color: red;
+}
+.Student table{
+  border:1px solid #000000;
+  border-collapse: collapse;
+  margin-bottom: 10px;
+  width: 200px;
+}
+.Student table td,.Student table th{
+text-align: left;
+border: 1px solid rgb(73, 0, 128);
+padding: 5px 10px;
+} */
+*{
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#root{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  min-height: 100vh;
+  margin: 0;
+}
+h3{
+  margin: 5px 0;
+}
+h6{
+  margin: 5px 0;
+  text-transform: uppercase;
+}
+p{
+  font-size: 20px;
+  line-height: 21px;
+  text-align:center;
+}
+.container{
+  background-color: #353535;
+  border-radius: 5px;
+  box-shadow: 0px 10px 20px -10px rgba(0, 0, 0, 0.75);
+  color: white;
+  padding:20px ;
+  width: 350px;
+  max-width: 100%;
+  text-align: center;
+  position: relative;
+}
+.pro{
+  color: white;
+  background: green;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 5px 7px;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+img{
+  width: 40%;
+  border: 2px solid white;
+  padding: 5px;
+  border-radius: 80px;
+}
+ .buttons{
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+.buttons .primary{
+background-color: blue;
+border: 1px solid blue;
+border-radius: 2px;
+color: #fff;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 800;
+padding: 6px 25px;
+}
+.buttons .primaryoutline{
+  background-color: blue;
+border: 1px solid blue;
+border-radius: 2px;
+color: #fff;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 800;
+padding: 6px 25px;
+  background-color: transparent;
+ }
+.skills{
+    background-color: #2f3636;
+    text-align: left;
+    padding: 15px;
+    margin: 0;
+}
+.skills ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.skills ul li{
+  border: 1px solid white;
+  display: inline-block;
+  border-radius: 2px;
+  margin: 0 7px 7px 0;
+  padding: 7px;
+  font-size: 12px;
+}
